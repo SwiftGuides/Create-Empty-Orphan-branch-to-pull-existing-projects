@@ -1,5 +1,4 @@
-The correct answer is to create an orphan branch. I explain how to do this in detail on my blog: http://sidja.in/post/62663941071
-
+The correct answer is to create an orphan branch. 
 > ...
 > 
 > Before starting, upgrade to the latest version of GIT. To make sure
